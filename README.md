@@ -23,7 +23,7 @@
 <br>
   <a href="https://www.linkedin.com/in/aayush-radhanpara-875a33306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>  
-<a href="https://github.com/AayusRadhanpara" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Aayush00001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <!-- Add more social media links here -->
 </p>
 
@@ -43,7 +43,7 @@
 
 
 ## Visitor Count 
-![Visitor Count](https://profile-counter.glitch.me/{AayusRadhanpara}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Aayush00001}/count.svg)
 
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=green=flat&logo" alt="back to top" /></a></p>
