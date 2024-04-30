@@ -39,7 +39,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Aayush00001&show_icons=true&locale=en" alt="aayusradhanpara" /></p><br>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush00001a&" alt="aayusradhanpara" /></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush00001&" alt="aayusradhanpara" /></p><br>
 
 
 ## Visitor Count 
