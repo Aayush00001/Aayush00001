@@ -19,7 +19,7 @@
 <br>
   <a href="mailto:aayushradhanpara0001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0000ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Portfoli Website" />
+   <a href="https://aayush00001.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Portfoli Website" />
 <br>
   <a href="https://www.linkedin.com/in/aayush-radhanpara-875a33306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>  
