@@ -1,5 +1,5 @@
 ![logo](https://github.com/Aayush00001/Aayush00001/blob/main/Banner.png)
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="30px">, I'm Aayush Radhanpara<img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"></h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="30px">, I'm Aayush Radhanpara<img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -35,11 +35,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayusradhanpara&show_icons=true&locale=en&layout=compact" alt="aayusradhanpara" /></p><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush00001&show_icons=true&locale=en&layout=compact" alt="aayusradhanpara" /></p><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=aayusradhanpara&show_icons=true&locale=en" alt="aayusradhanpara" /></p><br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Aayush00001&show_icons=true&locale=en" alt="aayusradhanpara" /></p><br>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aayusradhanpara&" alt="aayusradhanpara" /></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush00001a&" alt="aayusradhanpara" /></p><br>
 
 
 ## Visitor Count 
