@@ -19,7 +19,7 @@
 <br>
   <a href="https://drive.google.com/file/d/17Tx5WIOiIuUFCisrHTinaph0QOfzu3t8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFF00?style=for-the-badge&logo=YOUR_LOGO_URL_HERE&logoColor=white" alt="Resume" target="_blank"></a>
 <br>
-   <a href="https://aayush00001.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Portfoli Website" />
+   <a href="https://aayushradhanpara.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Portfoli Website" />
 <br>
   <a href="https://www.linkedin.com/in/aayush-radhanpara-875a33306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>  
