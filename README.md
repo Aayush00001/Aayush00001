@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with Me:</h3> 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ErZy3HilgJ--px4SedaeUbRheGWQmp5g/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFF00?style=for-the-badge&logo=YOUR_LOGO_URL_HERE&logoColor=white" alt="Resume" target="_blank"></a>
+  <a href="https://drive.google.com/drive/folders/1hlw1CzeiSp0FbLwbn9-KxForhpGocg7l?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFF00?style=for-the-badge&logo=YOUR_LOGO_URL_HERE&logoColor=white" alt="Resume" target="_blank"></a>
 <br>
   <a href="mailto:aayushradhanpara0001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0000ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
