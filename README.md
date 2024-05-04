@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with Me:</h3> 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1cr88T_mfL26MngKCn2UO-17LmwB4Axo_/view" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFF00?style=for-the-badge&logo=YOUR_LOGO_URL_HERE&logoColor=white" alt="Resume" target="_blank"></a>
-<br>
   <a href="mailto:aayushradhanpara0001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0000ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+  <a href="https://drive.google.com/file/d/17Tx5WIOiIuUFCisrHTinaph0QOfzu3t8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-FFFF00?style=for-the-badge&logo=YOUR_LOGO_URL_HERE&logoColor=white" alt="Resume" target="_blank"></a>
 <br>
    <a href="https://aayush00001.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="My Portfoli Website" />
 <br>
